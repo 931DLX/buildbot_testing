@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 print("Witojcie")
-print("To koniec!")
+print("To ja!")
